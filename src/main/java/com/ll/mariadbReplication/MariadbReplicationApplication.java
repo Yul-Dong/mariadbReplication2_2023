@@ -1,4 +1,4 @@
-package com.ll.mariadbreplication;
+package com.ll.mariadbReplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

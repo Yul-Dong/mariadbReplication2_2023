@@ -1,4 +1,4 @@
-package com.ll.mariadbreplication.domain.post;
+package com.ll.mariadbReplication.domain.post;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package com.ll.mariadbreplication.domain.post;
+package com.ll.mariadbReplication.domain.post;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
